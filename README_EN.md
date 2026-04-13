@@ -100,8 +100,9 @@ No additional dependencies are required — only the standard library and Tkinte
 
 ### 🧑‍💻 For Regular Users (Windows)
 
-Download **ClaritySort.exe** from the Releases page.  
-No installation required — just run the file.
+Download the ready-to-run executable **ClaritySort.exe**:  
+[**Download latest version**](https://github.com/ClaritySort/ClaritySort/releases/latest/download/ClaritySort.exe)  
+*(No installation required — just run the file.)*
 
 ---
 
