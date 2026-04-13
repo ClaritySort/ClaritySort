@@ -5,6 +5,11 @@
 
 > В интерфейсе программа отображается под коротким именем **Clarity**.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ClaritySort/ClaritySort)](https://github.com/ClaritySort/ClaritySort/releases/latest)
+[![GitHub all releases](https://img.shields.io/gadge/downloads-10.1K%2B-brightgreen)](https://github.com/ClaritySort/ClaritySort/releases)
+
 [English version](README_EN.md)
 
 ---
