@@ -95,8 +95,9 @@ python main.py
 
 ### 🧑‍💻 Для обычных пользователей (Windows)
 
-Скачайте готовый исполняемый файл **ClaritySort.exe** со страницы Releases.  
-Установка не требуется — просто запустите скачанный файл.
+Скачайте готовый исполняемый файл **ClaritySort.exe**:  
+[**Скачать последнюю версию**](https://github.com/ClaritySort/ClaritySort/releases/latest/download/ClaritySort.exe)  
+*(Установка не требуется — просто запустите скачанный файл.)*
 
 ---
 
