@@ -1,0 +1,95 @@
+{
+  "theme": "light",
+  "safety": {
+    "check_file_size": true,
+    "max_size_mb": 500
+  },
+  "categories": {
+    "Изображения": {
+      "extensions": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".bmp",
+        ".webp",
+        ".svg",
+        ".ico",
+        ".tiff",
+        ".tif"
+      ],
+      "keywords": []
+    },
+    "Видео": {
+      "extensions": [
+        ".mp4",
+        ".avi",
+        ".mkv",
+        ".mov",
+        ".wmv",
+        ".flv",
+        ".webm"
+      ],
+      "keywords": []
+    },
+    "Аудио": {
+      "extensions": [
+        ".mp3",
+        ".wav",
+        ".ogg",
+        ".m4a",
+        ".mid",
+        ".midi"
+      ],
+      "keywords": []
+    },
+    "Документы": {
+      "extensions": [
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".txt",
+        ".rtf",
+        ".odt",
+        ".xls",
+        ".xlsx",
+        ".ppt",
+        ".pptx",
+        ".csv"
+      ],
+      "keywords": []
+    },
+    "Архивы": {
+      "extensions": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz"
+      ],
+      "keywords": []
+    },
+    "Программы": {
+      "extensions": [
+        ".exe",
+        ".msi",
+        ".iso",
+        ".bat",
+        ".cmd",
+        ".ps1",
+        ".sh"
+      ],
+      "keywords": []
+    },
+    "Торренты": {
+      "extensions": [
+        ".torrent"
+      ],
+      "keywords": []
+    },
+    "Разное": {
+      "extensions": [],
+      "keywords": []
+    }
+  }
+}
