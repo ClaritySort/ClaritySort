@@ -185,7 +185,7 @@ ClaritySort/
 ├── README_EN.md
 ├── LICENSE
 └── requirements.txt
-
+```
 ---
 
 ## 🔧 Сборка в EXE (Windows)
