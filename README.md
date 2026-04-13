@@ -161,6 +161,7 @@ data/logs/sort_YYYY-MM-DD_HH-MM-SS.json
 
 ## 📁 Структура проекта
 
+```text
 ClaritySort/
 ├── core/                     # Ядро приложения
 │   ├── config_manager.py
