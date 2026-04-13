@@ -222,4 +222,28 @@ See the `LICENSE` file for details.
 
 ---
 
+## 💖 Support
+
+If you find this project useful, you can support its development on Boosty:  
+[![Boosty](https://img.shields.io/badge/Boosty-Support-FF6B00?logo=boosty&style=flat-square)](https://boosty.to/claritysort/donate)
+
+Any support helps to keep the project alive!
+
+---
+
+## 🙏 Acknowledgments
+
+This is my first desktop application built with Python. During development, I actively used modern tools, including AI assistants, which helped speed up coding, debugging, and documentation.
+
+Thanks to the open-source community for knowledge and inspiration.
+
+---
+
+## 📬 Feedback
+
+Have a feature request or found a bug? [Open an Issue](https://github.com/ClaritySort/ClaritySort/issues) or join [Discussions](https://github.com/ClaritySort/ClaritySort/discussions).  
+I'd love to hear your thoughts and suggestions!
+
+---
+
 © 2026 ClaritySort
