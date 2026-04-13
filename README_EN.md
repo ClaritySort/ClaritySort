@@ -163,7 +163,7 @@ Last **50 logs** are stored.
 ---
 
 ## 📁 Project Structure
-
+```text
 ClaritySort/
 ├── core/                     # Core logic
 │   ├── config_manager.py
@@ -187,7 +187,7 @@ ClaritySort/
 ├── README_EN.md
 ├── LICENSE
 └── requirements.txt
-
+```
 ---
 
 ## 🔧 Building EXE (Windows)
