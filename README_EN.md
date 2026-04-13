@@ -5,6 +5,11 @@ It helps you organize folders in a few clicks: documents, images, videos, archiv
 
 > The program is displayed under the short name **Clarity** in the interface.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub release](https://img.shields.io/github/v/release/ClaritySort/ClaritySort?label=release)](https://github.com/ClaritySort/ClaritySort/releases/latest)
+[![Downloads](https://img.shields.io/badge/downloads-⬇️_download-brightgreen)](https://github.com/ClaritySort/ClaritySort/releases/latest)
+
 [Русская версия](README.md)
 
 ---
