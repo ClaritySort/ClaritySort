@@ -72,13 +72,16 @@ def main():
         # Сначала скрываем корневое окно, чтобы показать уже полностью инициализированный UI.
         root.withdraw()
 
-        icon_path = resource_path("app_icon.ico")
-        root.icon_path = icon_path if os.path.isfile(icon_path) else None
-        if root.icon_path:
-            try:
-                root.iconbitmap(root.icon_path)
-            except Exception as e:
-                log.warning("Не удалось установить иконку: %s", e)
+        # Установка иконки окна
+        try:
+            icon_path = resource_path("app_icon.ico")
+            if os.path.isfile(icon_path):
+                root.iconbitmap(icon_path)
+                root.icon_path = icon_path  # сохраняем для доступа из дочерних окон
+            else:
+                log.warning("Файл иконки не найден: %s", icon_path)
+        except Exception as e:
+            log.warning("Не удалось установить иконку: %s", e)
 
         app = MainWindow(root)
 
