@@ -5,6 +5,11 @@ It helps you organize folders in a few clicks: documents, images, videos, archiv
 
 > The program is displayed under the short name **Clarity** in the interface.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub release](https://img.shields.io/github/v/release/ClaritySort/ClaritySort?label=release)](https://github.com/ClaritySort/ClaritySort/releases/latest)
+[![Downloads](https://img.shields.io/badge/downloads-⬇️_download-brightgreen)](https://github.com/ClaritySort/ClaritySort/releases/latest)
+
 [Русская версия](README.md)
 
 ---
@@ -100,8 +105,9 @@ No additional dependencies are required — only the standard library and Tkinte
 
 ### 🧑‍💻 For Regular Users (Windows)
 
-Download **ClaritySort.exe** from the Releases page.  
-No installation required — just run the file.
+Download the ready-to-run executable **ClaritySort.exe**:  
+[**Download latest version**](https://github.com/ClaritySort/ClaritySort/releases/latest/download/ClaritySort.exe)  
+*(No installation required — just run the file.)*
 
 ---
 
@@ -163,7 +169,7 @@ Last **50 logs** are stored.
 ---
 
 ## 📁 Project Structure
-
+```text
 ClaritySort/
 ├── core/                     # Core logic
 │   ├── config_manager.py
@@ -187,7 +193,7 @@ ClaritySort/
 ├── README_EN.md
 ├── LICENSE
 └── requirements.txt
-
+```
 ---
 
 ## 🔧 Building EXE (Windows)
@@ -218,6 +224,30 @@ ClaritySort.exe
 
 This project is licensed under the **MIT License**.  
 See the `LICENSE` file for details.
+
+---
+
+## 💖 Support
+
+If you find this project useful, you can support its development on Boosty:  
+[![Boosty](https://img.shields.io/badge/Boosty-Support-FF6B00?logo=boosty&style=flat-square)](https://boosty.to/claritysort/donate)
+
+Any support helps to keep the project alive!
+
+---
+
+## 🙏 Acknowledgments
+
+This is my first desktop application built with Python. During development, I actively used modern tools, including AI assistants, which helped speed up coding, debugging, and documentation.
+
+Thanks to the open-source community for knowledge and inspiration.
+
+---
+
+## 📬 Feedback
+
+Have a feature request or found a bug? [Open an Issue](https://github.com/ClaritySort/ClaritySort/issues) or join [Discussions](https://github.com/ClaritySort/ClaritySort/discussions).  
+I'd love to hear your thoughts and suggestions!
 
 ---
 
