@@ -62,13 +62,13 @@ export CLARITY_LANG=en
 ## 📸 Screenshots
 
 ### Main Window
-![Main Window](screenshots/main_window.png)
+![Main Window](screenshots/main_window_en.png)
 
 ### Settings Window
-![Settings Window](screenshots/settings_window.png)
+![Settings Window](screenshots/settings_window_en.png)
 
 ### Large Files Dialog
-![Large Files Dialog](screenshots/show_large_files_dialog.png)
+![Large Files Dialog](screenshots/show_large_files_dialog_en.png)
 
 ---
 
