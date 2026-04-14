@@ -5,6 +5,11 @@
 
 > В интерфейсе программа отображается под коротким именем **Clarity**.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub release](https://img.shields.io/github/v/release/ClaritySort/ClaritySort?label=release)](https://github.com/ClaritySort/ClaritySort/releases/latest)
+[![Downloads](https://img.shields.io/badge/downloads-⬇️_скачать-brightgreen)](https://github.com/ClaritySort/ClaritySort/releases/latest)
+
 [English version](README_EN.md)
 
 ---
@@ -95,8 +100,9 @@ python main.py
 
 ### 🧑‍💻 Для обычных пользователей (Windows)
 
-Скачайте готовый исполняемый файл **ClaritySort.exe** со страницы Releases.  
-Установка не требуется — просто запустите скачанный файл.
+Скачайте готовый исполняемый файл **ClaritySort.exe**:  
+[**Скачать последнюю версию**](https://github.com/ClaritySort/ClaritySort/releases/latest/download/ClaritySort.exe)  
+*(Установка не требуется — просто запустите скачанный файл.)*
 
 ---
 
@@ -161,6 +167,7 @@ data/logs/sort_YYYY-MM-DD_HH-MM-SS.json
 
 ## 📁 Структура проекта
 
+```text
 ClaritySort/
 ├── core/                     # Ядро приложения
 │   ├── config_manager.py
@@ -184,7 +191,7 @@ ClaritySort/
 ├── README_EN.md
 ├── LICENSE
 └── requirements.txt
-
+```
 ---
 
 ## 🔧 Сборка в EXE (Windows)
@@ -212,6 +219,30 @@ pyinstaller --onefile --windowed --icon=app_icon.ico --add-data "data;data" --ma
 
 Проект распространяется под лицензией **MIT**.  
 Полный текст — в файле `LICENSE`.
+
+---
+
+## 💖 Поддержать проект
+
+Если программа оказалась полезной, вы можете поддержать разработку через Boosty:  
+[![Boosty](https://img.shields.io/badge/Boosty-Поддержать-FF6B00?logo=boosty&style=flat-square)](https://boosty.to/claritysort/donate)
+
+Любая поддержка мотивирует развивать проект дальше!
+
+---
+
+## 🙏 Благодарности
+
+Это мой первый опыт создания десктопного приложения на Python. В процессе разработки активно использовались современные инструменты, включая нейросетевые помощники, что помогло ускорить написание кода, отладку и подготовку документации.
+
+Спасибо open-source сообществу за знания и вдохновение.
+
+---
+
+## 📬 Обратная связь
+
+Если у вас есть идеи, пожелания или вы нашли ошибку — [создайте Issue](https://github.com/ClaritySort/ClaritySort/issues) или напишите в [обсуждениях](https://github.com/ClaritySort/ClaritySort/discussions).  
+Буду рад любым отзывам и предложениям!
 
 ---
 
