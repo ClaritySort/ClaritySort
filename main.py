@@ -52,6 +52,15 @@ def main():
 
     if sys.platform == "win32":
         try:
+            # Включаем осведомлённость о DPI для чёткости на масштабированных экранах
+            import ctypes
+            ctypes.windll.shcore.SetProcessDpiAwareness(1)
+            log.info("DPI awareness включена")
+        except Exception as e:
+            log.warning("Не удалось установить DPI awareness: %s", e)
+    
+    if sys.platform == "win32":
+        try:
             # AppUserModelID нужен для корректной иконки и группировки окна в Windows.
             ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("ClaritySort.FileSorter.1")
         except Exception:
